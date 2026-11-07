@@ -1,0 +1,32 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.5.48",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"name":"Green Area_objects",
+			"nodes":[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"Green Area Crash Barriers"
+		},
+		{
+			"name":"Green Area Trees (Low Poly)"
+		},
+		{
+			"name":"Green Area Trees (High Poly)"
+		},
+		{
+			"name":"Green Area.001"
+		}
+	]
+}
